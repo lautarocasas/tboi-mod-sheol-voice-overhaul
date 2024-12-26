@@ -1,0 +1,17 @@
+<sounds root="sfx/">
+	<sound name = "Satan Voice1">
+		<sample weight="1" path="Satan (1).wav" />
+		<sample weight="1" path="Satan (2).wav" />
+		<sample weight="1" path="Satan (3).wav" />
+		<sample weight="1" path="Satan (4).wav" />
+		<sample weight="1" path="Satan (5).wav" />
+		<sample weight="1" path="Satan (6).wav" />
+		<sample weight="1" path="Satan (7).wav" />
+		<sample weight="1" path="Satan (8).wav" />
+	</sound>
+	<sound name = "Satan Welcome">
+		<sample weight="1" path="Satan welcome (1).wav" />
+		<sample weight="1" path="Satan welcome (2).wav" />
+		<sample weight="1" path="Satan welcome (3).wav" />
+	</sound>
+</sounds>
